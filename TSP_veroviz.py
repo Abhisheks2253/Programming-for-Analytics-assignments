@@ -47,7 +47,7 @@ nodesDF = pd.DataFrame(nodesArray)
 
 # nodesDF
 
-#Creates a view
+# To create a view of the nodes selected 
 # vrv.createLeaflet(nodes = nodesDF, boundingRegion=None)
 
 
