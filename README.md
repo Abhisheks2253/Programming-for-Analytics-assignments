@@ -12,4 +12,4 @@
 
 #### The solveTSP_SA returns a **VeRoViz “assignments” dataframe**, as described here: https://veroviz.org/docs/assignments.html
 
-## Recommended to download and run the notebook for visuals of nodes and route
+## Note: Kindly download and run the notebook for visuals of nodes and route
