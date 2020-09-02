@@ -11,3 +11,5 @@
 #### 3. **timeLimit** – A scalar value describing the maximum runtime of your heuristic, in units of seconds
 
 #### The solveTSP_SA returns a **VeRoViz “assignments” dataframe**, as described here: https://veroviz.org/docs/assignments.html
+
+## Recommended to download and run the notebook for visuals of nodes and route
